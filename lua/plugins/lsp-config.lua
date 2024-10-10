@@ -19,6 +19,7 @@ return {
 					"pylsp",
 					"pyright",
           "phpactor",
+          "tailwindcss"
 				},
 			})
 		end,
@@ -38,6 +39,7 @@ return {
 			lspconfig.pylsp.setup({ capabilities = capabilities })
 			lspconfig.pyright.setup({ capabilities = capabilities })
 			lspconfig.phpactor.setup({ capabilities = capabilities })
+			lspconfig.tailwindcss.setup({ capabilities = capabilities })
 
 			vim.keymap.set("n", "K", vim.lsp.buf.hover, {})
 			vim.keymap.set("n", "<C-M>", vim.lsp.buf.code_action, {})
