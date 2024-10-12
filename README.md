@@ -4,6 +4,8 @@ A simple set of settings from my neovim editor config.
 
 ## Install
 
+- Install [lazy.nvim](https://lazy.folke.io/) plugin manager. 
+
 First of all, backup the ```~/.config/nvim``` and then delete it.
 
 ```bash
