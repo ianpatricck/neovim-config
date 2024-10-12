@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.g.maplocalleader = "\\"
 vim.opt.guicursor = "n-v-i-c:block-Cursor"
 
 vim.cmd("set expandtab")
