@@ -23,7 +23,6 @@ return {
 				"typescript",
 				"vue",
 				"xml",
-				"yaml",
 			},
 			sync_install = false,
 			highlight = {
