@@ -11,7 +11,7 @@ return {
 				"dockerfile",
 				"graphql",
 				"javascript",
-				"json",
+				"json5",
 				"prisma",
 				"php",
 				"python",
