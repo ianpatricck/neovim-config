@@ -10,6 +10,7 @@ return {
 				"cpp",
 				"dockerfile",
 				"graphql",
+        "html",
 				"javascript",
 				"json5",
 				"prisma",
